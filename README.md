@@ -1,5 +1,5 @@
 # yolo_fast_api
-将yolo快速部署为环境
+将yolo快速部署为一个服务
 # 使用方法
 ## 构建环境
 ```docker build -t fastapi-yolo:yolov-0.1 .```
