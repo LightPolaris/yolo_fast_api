@@ -5,4 +5,4 @@
 ```docker build -t fastapi-yolo:yolov-0.1 .```
 ## 开启服务
 8200为映射到宿主机的端口
-```docker run -it -p 8200:8000 fastapi-yolo:yolov-0.1 -d```
+``` docker run -p 8200:8000 -d fastapi-yolo:yolov-0.1 ```
